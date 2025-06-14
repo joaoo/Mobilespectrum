@@ -213,7 +213,7 @@
                 "provider": {
                     "name": "Digi",
                     "longName": "Digi Portugal",
-                    "homePage": "https://www.digi-communications.ro/",
+                    "homePage": "https://www.digi.pt/",
                     "backgroundColor": "blue",
                     "textColor": "white"
                 },
@@ -418,44 +418,19 @@
             },
             {
                 "provider": {
-                    "name": "Nowo",
-                    "longName": "Nowo",
-                    "homePage": "http://www.nowo.pt",
-                    "backgroundColor": "#f76e11",
-                    "textColor": "white"
-                },
-                "frequency": {
-                    "downLink": {
-                        "start": 1865,
-                        "end": 1875
-                    },
-                    "upLink": {
-                        "start": 1770,
-                        "end": 1780
-                    }
-                },
-                "source": [
-                    {
-                        "name": "Autoridade Nacional de Comunicações",
-                        "url": "https://www.anacom.pt/render.jsp?contentId=1712329&languageId=1"
-                    }
-                ]
-            },
-            {
-                "provider": {
                     "name": "Digi",
                     "longName": "Digi Portugal",
-                    "homePage": "https://www.digi-communications.ro/",
+                    "homePage": "https://www.digi.pt/",
                     "backgroundColor": "blue",
                     "textColor": "white"
                 },
                 "frequency": {
                     "downLink": {
-                        "start": 1875,
+                        "start": 1865,
                         "end": 1880
                     },
                     "upLink": {
-                        "start": 1780,
+                        "start": 1770,
                         "end": 1785
                     }
                 },
@@ -573,42 +548,17 @@
                 "provider": {
                     "name": "Digi",
                     "longName": "Digi Portugal",
-                    "homePage": "https://www.digi-communications.ro/",
+                    "homePage": "https://www.digi.pt/",
                     "backgroundColor": "blue",
                     "textColor": "white"
                 },
                 "frequency": {
                     "downLink": {
                         "start": 2620,
-                        "end": 2625
-                    },
-                    "upLink": {
-                        "start": 2500,
-                        "end": 2505
-                    }
-                },
-                "source": [
-                    {
-                        "name": "Autoridade Nacional de Comunicações",
-                        "url": "https://www.anacom.pt/render.jsp?contentId=1712329&languageId=1"
-                    }
-                ]
-            },
-            {
-                "provider": {
-                    "name": "Nowo",
-                    "longName": "Nowo",
-                    "homePage": "http://www.nowo.pt",
-                    "backgroundColor": "#f76e11",
-                    "textColor": "white"
-                },
-                "frequency": {
-                    "downLink": {
-                        "start": 2625,
                         "end": 2630
                     },
                     "upLink": {
-                        "start": 2505,
+                        "start": 2500,
                         "end": 2510
                     }
                 },
@@ -712,7 +662,7 @@
                 "provider": {
                     "name": "Digi",
                     "longName": "Digi Portugal",
-                    "homePage": "https://www.digi-communications.ro/",
+                    "homePage": "https://www.digi.pt/",
                     "backgroundColor": "blue",
                     "textColor": "white"
                 },
@@ -762,7 +712,7 @@
                 "provider": {
                     "name": "Digi",
                     "longName": "Digi Portugal",
-                    "homePage": "https://www.digi-communications.ro/",
+                    "homePage": "https://www.digi.pt/",
                     "backgroundColor": "blue",
                     "textColor": "white"
                 },
@@ -808,10 +758,10 @@
             },
             {
                 "provider": {
-                    "name": "Nowo",
-                    "longName": "Nowo",
-                    "homePage": "http://www.nowo.pt",
-                    "backgroundColor": "#f76e11",
+                    "name": "Digi",
+                    "longName": "Digi",
+                    "homePage": "https://www.digi.pt/",
+                    "backgroundColor": "blue",
                     "textColor": "white"
                 },
                 "frequency": {
